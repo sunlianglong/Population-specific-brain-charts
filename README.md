@@ -2,7 +2,7 @@
 
 E-mail: lianglongsun@mail.bnu.edu.cn
 
-This repository provides code and source data that support the findings of the article entitled "Population-specific brain charts reveal Chinese-Western differences in neurodevelopmental trajectories" by Sun et al.
+This repository provides code and source data that support the findings of the article entitled "Population-specific brain charts reveal Chinese-Western differences in neurodevelopmental trajectories" by Sun et al., (2025) bioRxiv, https://www.biorxiv.org/content/10.1101/2025.06.17.659820v1
 
 
 ### Code
